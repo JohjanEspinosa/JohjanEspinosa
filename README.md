@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅Im currently working on my own projects.<br>✅Im currently student the software engenner.<br>✅Im currently learning web and movil development.
+✅ Im currently working on my own projects.<br>✅ Im currently student the software engenner.<br>✅ Im currently learning web and movil development.
 
 
 ## 🌐 Socials:
