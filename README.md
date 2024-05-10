@@ -17,4 +17,13 @@
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,vscode,mysql&perline=9)](https://skillicons.dev)
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/JohjanEspinosa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JohjanEspinosa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohjanEspinosa&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
