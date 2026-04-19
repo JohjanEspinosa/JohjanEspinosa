@@ -21,7 +21,7 @@ Soy **Ingeniero de Sistemas** y desarrollador Full Stack con base en **Duitama, 
 - 🏥 Construyo sistemas para el sector **salud, fitness, hospitalidad y servicios**
 - 🔗 Actualmente integrando **FHIR R4** con la API del Ministerio de Salud de Colombia (IHCE/Minsalud)
 - 🌐 Meta a mediano plazo: trabajo remoto para empresas europeas y reubicación en **España**
-- 📚 Estudiando **Ingeniería de Software** en Corporación Universitaria Iberoamericana
+- 📚 **Ingeniero de Software** en Corporación Universitaria Iberoamericana
 - 🎓 Certificado como **Analista de Datos** por TripleTen Latam · Tecnólogo ADSI por SENA
 - 💼 Llevo un negocio freelance de desarrollo de software a medida para clientes locales
 
