@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0ea5e9&size=22&center=true&vCenter=true&width=650&height=80&lines=Full+Stack+Developer+%7C+Colombia;Laravel+%2B+Vue+%2B+PHP+%2B+PostgreSQL;Salud+Digital+%26+FHIR+R4;Infraestructura+de+Redes+%7C+MikroTik;Analista+de+Datos+%7C+TripleTen+Latam" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0ea5e9&size=22&center=true&vCenter=true&width=650&height=80&lines=Web+Developer+%7C+Colombia;Laravel+%2B+Vue+%2B+PHP+%2B+PostgreSQL;Salud+Digital+%26+FHIR+R4;Infraestructura+de+Redes+%7C+MikroTik;Analista+de+Datos+%7C+TripleTen+Latam" />
   </a>
 </p>
 
