@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero de Sistemas** y desarrollador Full Stack con base en **Duitama, Boyacá, Colombia**, trabajando en **Sociedad Clínica Boyacá S.A.S.** donde combino desarrollo de software con infraestructura IT.
+Soy **Ingeniero de Sistemas** y desarrollador Web con base en **Duitama, Boyacá, Colombia**, trabajando en **Sociedad Clínica Boyacá S.A.S.** donde combino desarrollo de software con infraestructura IT.
 
 - 🏥 Construyo sistemas para el sector **salud, fitness, hospitalidad y servicios**
 - 🔗 Actualmente integrando **FHIR R4** con la API del Ministerio de Salud de Colombia (IHCE/Minsalud)
@@ -72,7 +72,7 @@ Soy **Ingeniero de Sistemas** y desarrollador Full Stack con base en **Duitama, 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:johjan.espinosa@gmail.com">
+  <a href="mailto:johjanespinosa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
