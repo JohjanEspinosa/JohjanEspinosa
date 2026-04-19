@@ -12,7 +12,7 @@
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,html,js,php,laravel,postgresql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,js,php,laravel,postgresql,vue&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,vscode,mysql&perline=9)](https://skillicons.dev)
