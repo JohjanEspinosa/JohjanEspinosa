@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero de Software** y desarrollador Web con base en **Duitama, Boyacá, Colombia**, trabajando en **Sociedad Clínica Boyacá S.A.S.** donde combino desarrollo de software con infraestructura IT.
+Soy **Ingeniero de Software** y desarrollador Web con base en **Duitama, Boyacá, Colombia**, trabajando en **Sociedad Clínica Boyacá S.A.S.** donde combino desarrollo de software, redes con infraestructura IT.
 
 - 🏥 Construyo sistemas para el sector **salud, fitness, hospitalidad y servicios**
 - 🔗 Actualmente integrando **FHIR R4** con la API del Ministerio de Salud de Colombia (IHCE/Minsalud)
